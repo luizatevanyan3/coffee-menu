@@ -1,0 +1,88 @@
+@media (max-width: 600px) {
+  .section1 {
+    flex-direction: column;
+    align-items: center;
+  }
+}
+
+пга
+body{
+    margin:0 ;
+}
+
+.section1{
+    display: flex;
+    justify-content:space-around;
+    font-weight: bold;
+   
+}
+.article1{
+    height: 34px;
+    margin-bottom: 0; 
+}
+.article1 p{
+display: inline-block;
+align-items: center;
+font-size: 14px;
+
+}
+
+.ml{
+    font-size: 8px;
+    margin-top: 0;
+    color: rgb(187, 186, 186);
+}
+
+.NameOfProduct{
+    width: 88%;
+}
+.NameOfProduct2{
+    width: 85%;
+    
+}
+.NameOfProduct3{
+    width: 77%
+   
+}
+.tea { 
+letter-spacing: 0.28em;
+}
+
+.sweet{
+    letter-spacing: 0.020em;
+}
+#coffee1{
+    width: 280px;
+    height: 20%;
+
+} 
+#coffee2{
+    width: 284px;
+    height: 20%;
+    
+} 
+#dessert{
+   padding-top: 30px;
+   width: 320px;
+   height: 200%; 
+}
+
+
+.footer {
+    background-color: #f4f4f4;
+    text-align: center;
+    padding: 20px 0;
+    font-size: 14px;
+    color: rgb(187, 186, 186);
+    border-top: 1px solid #ccc;
+    margin-top: 40px;
+}
+
+.footer a {
+    color: rgb(187, 186, 186);
+    text-decoration: none;
+}
+
+.footer a:hover {
+    text-decoration: underline;
+}
